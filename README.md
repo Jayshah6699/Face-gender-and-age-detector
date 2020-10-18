@@ -57,46 +57,46 @@ This is a python script for face gender and age detector for an image and also f
     Gender: Female
     Age: 15-20 years
     
-<img src="Image ExampleFace gender and age detection girl1.PNG">
+<img src="Image Example/Face gender and age detection girl1.PNG">
 
     >python FaceGenderandAgedetection.py --image girl2.jpg
     Gender: Female
     Age: 4-7 years
     
-<img src="Image ExampleFace gender and age detection girl2.PNG">
+<img src="Image Example/Face gender and age detection girl2.PNG">
 
     >python FaceGenderandAgedetection.py --image kid1.jpg
     Gender: Female
     Age: 4-7 years    
     
-<img src="Image ExampleFace gender and age detection kid1.PNG">
+<img src="Image Example/Face gender and age detection kid1.PNG">
 
     >python FaceGenderandAgedetection.py --image kid2.jpg
     Gender: Male
     Age: 0-3 years  
     
-<img src="Image ExampleFace gender and age detection kid2.PNG">
+<img src="Image Example/Face gender and age detection kid2.PNG">
 
     >python FaceGenderandAgedetection.py --image man1.jpg
     Gender: Male
     Age: 38-46 years
     
-<img src="Image ExampleFace gender and age detection man1.PNG">
+<img src="Image Example/Face gender and age detection man1.PNG">
 
     >python FaceGenderandAgedetection.py --image man2.jpg
     Gender: Male
     Age: 21-36 years
     
-<img src="Image ExampleFace gender and age detection man2.PNG">
+<img src="Image Example/Face gender and age detection man2.PNG">
 
     >python FaceGenderandAgedetection.py --image woman1.jpg
     Gender: Female
     Age: 21-36 years
     
-<img src="Image ExampleFace gender and age detection woman1.PNG">
+<img src="Image Example/Face gender and age detection woman1.PNG">
 
     >python FaceGenderandAgedetection.py --image woman1.jpg
     Gender: Female
     Age: 21-36 years
     
-<img src="Image ExampleFace gender and age detection woman2.PNG">
+<img src="Image Example/Face gender and age detection woman2.PNG">
