@@ -69,13 +69,13 @@ This is a python script for face gender and age detector for an image and also f
     Gender: Female
     Age: 4-7 years    
     
-<img src="Image Example/Detecting age and gender kid1.png.PNG">
+<img src="Image Example/Detecting age and gender kid1.png">
 
     >python FaceGenderandAgedetection.py --image kid2.jpg
     Gender: Male
     Age: 0-3 years  
     
-<img src="Image Example/Detecting age and gender kid2.PNG">
+<img src="Image Example/Detecting age and gender kid2.png">
 
     >python FaceGenderandAgedetection.py --image man1.jpg
     Gender: Male
