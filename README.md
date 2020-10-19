@@ -95,7 +95,7 @@ This is a python script for face gender and age detector for an image and also f
     
 <img src="Image Example/Face gender and age detection woman1.PNG">
 
-    >python FaceGenderandAgedetection.py --image woman1.jpg
+    >python FaceGenderandAgedetection.py --image woman2.jpg
     Gender: Female
     Age: 21-36 years
     
